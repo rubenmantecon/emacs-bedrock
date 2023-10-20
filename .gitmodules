@@ -1,0 +1,3 @@
+[submodule "emacs-bedrock"]
+	path = emacs-bedrock
+	url = https://git.sr.ht/~ashton314/emacs-bedrock
